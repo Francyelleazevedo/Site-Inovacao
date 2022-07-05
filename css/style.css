@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#inicio{
+    border-style: inherit;
+    width: 0;
+    height: 0;
+}
+
+h1{
+    color: #03191E;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulos{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 35px;
+    color: inherit;
+}
+
+.p-footer{
+    color: white;
+    display: flex;
+    width: 1200px;
+}
+
+#texto2{
+    margin-bottom: 30px;
+}
+
+#texto1{
+    margin-bottom: 30px;
+}
+

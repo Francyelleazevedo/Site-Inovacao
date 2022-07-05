@@ -1,0 +1,56 @@
+.texto-principal{
+    background-color: #e3def0;
+    width: 85%;
+    box-shadow: 2px 2px 5px #4c4c4c;
+}
+
+
+.main p{
+        font-family: inherit;
+        font-size: 25px;
+        color: inherit;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.textos-recomendados{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 15%;  
+    align-items: center;
+    margin-left: 5%;
+    
+    
+}
+.textos{
+    background-color: #e3def0;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    box-shadow: 2px 2px 5px #4c4c4c;
+}
+.textos p{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: medium;
+}
+.texto-principal p{
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
+
+#menu{
+    margin: 0;
+}
